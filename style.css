@@ -1,0 +1,19 @@
+img{
+    width:40%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.column{
+    display:inline;
+    padding: 10px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:blue;
+    bottom:0;
+    width:100%;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+}
